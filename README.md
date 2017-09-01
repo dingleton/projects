@@ -1,7 +1,7 @@
 This repository contains python (mini) projects. These are to show my level of competance in the python programming langage in the form of an applied program
 All code is written in python 3.6
 
-matplotlib_1.py
+Program 1 : matplotlib_1.py
 
 This code: 
 
@@ -22,7 +22,7 @@ These extract relevant data including: date, float & integer types.
 c. matplotlib.pyplot.plot_date to plot the results 
 
 
-sqlite_database1.py
+Program 2 : sqlite_database1.py
 
 This code: 
 
