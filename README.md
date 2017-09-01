@@ -22,6 +22,7 @@ These extract relevant data including: date, float & integer types.
 c. matplotlib.pyplot.plot_date to plot the results 
 
 
+
 Program 2 : sqlite_database1.py
 
 This code: 
@@ -33,4 +34,5 @@ b. Allows the user to : Display, Add, Delete & change entries and have a basic s
 Commands used include: 
 
 create_connection() & create_connection.cursor(), create_connection.cursor.exectute() 
+
 These create the data base, cursors and execute sqlite3 commands 
