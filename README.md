@@ -36,3 +36,10 @@ Commands used include:
 create_connection() & create_connection.cursor(), create_connection.cursor.exectute() 
 
 These create the data base, cursors and execute sqlite3 commands 
+
+
+Program 3 : Candlestick_1.py
+
+This code builds upon the matplotlib_1.py program.
+
+It reads/parses/extracts the same data from the URL and plots the stock price data a candlestock graph
