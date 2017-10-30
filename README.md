@@ -7,7 +7,7 @@ This code:
 
 a. reads a URL containing Microsoft stock price data, 
 
-b. extracts specific data
+b. extracts end-of-day price data
 
 c. plots data using matplotlib.
 
@@ -40,6 +40,6 @@ These create the data base, cursors and execute sqlite3 commands
 
 Program 3 : Candlestick_1.py
 
-This code builds upon the matplotlib_1.py program.
+This code builds upon the matplotlib_1.py program above but creates a candlestick graph from Microsoft stock orice data.
 
-It reads/parses/extracts the same data from the URL and plots the stock price data a candlestock graph
+It reads/parses/extracts Microsoft stock daily price data (i.e. open price, closing price, low price, high price, volume, date) from the URL and plots this data a candlestock graph.
